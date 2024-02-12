@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,figma.&perline=3)](https://skillicons.dev)
+
 <!--
 **hisayuki-komatsu/hisayuki-komatsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
